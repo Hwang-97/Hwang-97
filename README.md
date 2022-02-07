@@ -5,7 +5,8 @@
 
 ### ⭐ Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwang-97&show_icons=true&theme=dark&hide=stars)](https://github.com/Hwang-97)
-
+[![Hwang-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-97&show_icons=true&hide_border=true&title_color=23FFFFFF&icon_color=23FFFFFF&layout=compact)](https://github.com/Hwang-97)
+ 
 ### 📍 SIST Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Electronics_Sales_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Electronics_Sales_Program-Team)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Academy_Management_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Academy_Management_Program-Team)
