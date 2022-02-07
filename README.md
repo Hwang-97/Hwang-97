@@ -1,9 +1,28 @@
 <div align="center">
 
 
-# 🕺 HyunWoo 🕺
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdeagle&count_bg=%2379C83D&title_bg=%23444444&icon=opsgenie.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Hwang-97)
+# 🕺 HyunWoo 🕺  
 
+### ⭐ Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwang-97&show_icons=true&theme=dark&hide=stars)](https://github.com/Hwang-97)
+
+### 📍 SIST Project Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Electronics_Sales_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Electronics_Sales_Program-Team)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Academy_Management_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Academy_Management_Program-Team)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=SsangyongClass&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/SsangyongClass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=noticeBoard&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/noticeBoard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Goguma&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Goguma)
+
+
+### 📌 Practice Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=portfolio&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=ChatbotProject&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/ChatbotProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Calculator&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=ChatProgram&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/ChatProgram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=dark&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
+
+### 📊 Used Language Ratio
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-97&theme=dark&exclude_repo=class-source,kimdeagle)](https://github.com/Hwang-97)
 
 ### 🔨 Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
@@ -24,31 +43,6 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
 <img src="https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=MicrosoftTeams&logoColor=white">
 
-
-### ⭐ Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwang-97&show_icons=true&theme=react&hide=stars)](https://github.com/Hwang-97)
-
-
-### 📊 Used Language Ratio
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-97&theme=react&exclude_repo=class-source,kimdeagle)](https://github.com/Hwang-97)
-
-
-### 📍 SIST Project Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Electronics_Sales_Program-Team&theme=react&cache_seconds=1800)](https://github.com/Hwang-97/Electronics_Sales_Program-Team)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Academy_Management_Program-Team&theme=react&cache_seconds=1800)](https://github.com/Hwang-97/Academy_Management_Program-Team)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=SsangyongClass&theme=react&cache_seconds=1800)](https://github.com/Hwang-97/SsangyongClass)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=noticeBoard&theme=react&cache_seconds=1800)](https://github.com/Hwang-97/noticeBoard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Goguma&theme=react&cache_seconds=1800)](https://github.com/Hwang-97/Goguma)
-
-
-### 📌 Practice Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=portfolio&theme=react&cache_seconds=1800)](https://github.com/Hwang-97/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=ChatbotProject&theme=react&cache_seconds=1800)](https://github.com/Hwang-97/ChatbotProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Calculator&theme=react&cache_seconds=1800)](https://github.com/Hwang-97/Calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=ChatProgram&theme=react&cache_seconds=1800)](https://github.com/Hwang-97/ChatProgram)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=react&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
-
-
 ### 🔔 Contact
 <a href="mailto:qqq4472@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <a href="https://github.com/Hwang-97/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -59,7 +53,8 @@
 [Simple Icons](https://simpleicons.org/)   
 [emojipedia](https://emojipedia.org/)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdeagle&count_bg=%2379C83D&title_bg=%23444444&icon=opsgenie.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Hwang-97)
+ 
 </div>
 
 
