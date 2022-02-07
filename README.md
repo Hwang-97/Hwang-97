@@ -53,8 +53,6 @@
 <a href="mailto:qqq4472@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <a href="https://github.com/Hwang-97/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
-
-
 ### 🔎 References   
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats)   
 [Shields.io](https://shields.io/)   
