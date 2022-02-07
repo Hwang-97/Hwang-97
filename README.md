@@ -53,6 +53,7 @@
 [Simple Icons](https://simpleicons.org/)   
 [emojipedia](https://emojipedia.org/)
  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwang-97&count_bg=%236A5DFF&title_bg=%232DC4D1&icon=bitrise.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 
