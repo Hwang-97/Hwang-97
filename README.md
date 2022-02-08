@@ -5,7 +5,8 @@
 
 ### ⭐ Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwang-97&show_icons=true&theme=dark&hide=stars)](https://github.com/Hwang-97)
-[![Hwang-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-97&show_icons=true&hide_border=true&title_color=23FFFFFF&icon_color=23FFFFFF&layout=compact)](https://github.com/Hwang-97)
+### 📊 Used Language Ratio
+[![Hwang-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-97&theme=dark&show_icons=true&title_color=DADADA&icon_color=DADADA&layout=compact)](https://github.com/Hwang-97)
  
 ### 📍 SIST Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Electronics_Sales_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Electronics_Sales_Program-Team)
@@ -21,9 +22,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Calculator&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=ChatProgram&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/ChatProgram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=dark&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
-
-### 📊 Used Language Ratio
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-97&theme=dark&exclude_repo=class-source,kimdeagle)](https://github.com/Hwang-97)
 
 ### 🔨 Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
