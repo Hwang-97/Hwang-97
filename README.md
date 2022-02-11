@@ -9,14 +9,14 @@
 ### 📊 Used Language Ratio
 [![Hwang-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-97&theme=dark&show_icons=true&title_color=DADADA&icon_color=DADADA&layout=compact)](https://github.com/Hwang-97)
  
+### ✏ SIST Class Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=SsangyongClass&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/SsangyongClass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=noticeBoard&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/noticeBoard) 
+ 
 ### 📍 SIST Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Electronics_Sales_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Electronics_Sales_Program-Team)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Academy_Management_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Academy_Management_Program-Team)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Goguma&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Goguma)
-
-### ✏ SIST Class Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=SsangyongClass&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/SsangyongClass)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=noticeBoard&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/noticeBoard)
  
 ### 📌 Toy Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=portfolio&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/portfolio)
