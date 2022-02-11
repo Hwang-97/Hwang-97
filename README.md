@@ -23,6 +23,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Calculator&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=ChatProgram&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/ChatProgram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=dark&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Real_Time_Searched_Words_Related_stocks-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Real_Time_Searched_Words_Related_stocks-Team)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=CopyTodayFile&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/CopyTodayFile)
 
 ### 🔨 Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
