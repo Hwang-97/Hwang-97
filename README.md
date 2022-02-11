@@ -4,10 +4,8 @@
 
 # 😋 HyunWoo 😋  
 
-### ⭐ Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwang-97&show_icons=true&theme=dark&hide=stars)](https://github.com/Hwang-97)
-### 📊 Used Language Ratio
-[![Hwang-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-97&theme=dark&show_icons=true&title_color=DADADA&icon_color=DADADA&layout=compact)](https://github.com/Hwang-97)
+ ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Stats &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 Used Language Ratio  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwang-97&show_icons=false&theme=dark&hide=stars)](https://github.com/Hwang-97)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hwang-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-97&theme=dark&show_icons=true&title_color=DADADA&icon_color=DADADA&layout=compact)](https://github.com/Hwang-97)
  
 ### 📍 SIST Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Electronics_Sales_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Electronics_Sales_Program-Team)
