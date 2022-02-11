@@ -12,20 +12,25 @@
 ### 📍 SIST Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Electronics_Sales_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Electronics_Sales_Program-Team)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Academy_Management_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Academy_Management_Program-Team)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=SsangyongClass&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/SsangyongClass)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=noticeBoard&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/noticeBoard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Goguma&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Goguma)
 
-
-### 📌 Practice Repository
+### ✏ SIST Class Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=SsangyongClass&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/SsangyongClass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=noticeBoard&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/noticeBoard)
+ 
+### 📌 Toy Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=portfolio&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=ChatbotProject&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/ChatbotProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Calculator&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=ChatProgram&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/ChatProgram)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=dark&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Real_Time_Searched_Words_Related_stocks-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Real_Time_Searched_Words_Related_stocks-Team)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=CopyTodayFile&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/CopyTodayFile)
 
+### 📌 Self Study Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=ChatProgram&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/ChatProgram)
+ 
+### 💻 Algorithm Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=dark&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
+ 
 ### 🔨 Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
