@@ -17,6 +17,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Electronics_Sales_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Electronics_Sales_Program-Team)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Academy_Management_Program-Team&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Academy_Management_Program-Team)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=Goguma&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/Goguma)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uplusm2&repo=Ozone&theme=dark&cache_seconds=1800)](https://github.com/uplusm2/Ozone)
  
 ### 📌 Toy Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=portfolio&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/portfolio)
