@@ -27,8 +27,9 @@
 
 ### 📌 Self Study Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=ChatProgram&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/ChatProgram)
- 
-### 💻 Algorithm Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=C_Study&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/C_Study)
+
+### 💻 Algorithm Repository 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=dark&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
  
 ### 🔨 Stack
