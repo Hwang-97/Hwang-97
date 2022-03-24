@@ -27,6 +27,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=CopyTodayFile&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/CopyTodayFile)
 
 ### 📌 Self Study Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=shell_script_test_repository&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/shell_script_test_repository)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=pro-c_study&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/pro-c_study)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=ChatProgram&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/ChatProgram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hwang-97&repo=C_Study&theme=dark&cache_seconds=1800)](https://github.com/Hwang-97/C_Study)
 
